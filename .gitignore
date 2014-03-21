@@ -1,3 +1,4 @@
 bugs
 .vagrant
 package.box
+*.swp
